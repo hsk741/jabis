@@ -1,0 +1,10 @@
+{
+  "keys": [
+    {
+      "kty": "RSA",
+      "e": "AQAB",
+      "kid": "szs-application",
+      "n": "myRkhZAFncVguVJAkXkgurTGqnmB26fu6B_fwKMJscKTUCU2F2NWPzw4B17E9JT6FMlVUic7AP6et_becCwZZ1Pld0x7a-aXvr2n7WmSTtDYSGwvIpDzpRcmCvd-Cdtyjdtan1LdDSUdfWThoRXx3T0bdw97KaViblabEaPrIAbzLN3Vup-PvjfDHdipRnWvVcX3iK5_Cyw2iiSEhIYepPkKzkkutvVtH-A4p6-ob1_fSGoNoGkieILoAl9gGwyXgOJZlZuwXJ-3saPDfw9y_jYfR7QqZUhU7cYULGicCbSHCpM8I7B6Ey1J5odglXA513W7SUdCk4q6Xqr98a5jbQ"
+    }
+  ]
+}
