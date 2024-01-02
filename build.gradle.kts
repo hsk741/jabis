@@ -1,6 +1,6 @@
 plugins {
     java
-    id("org.springframework.boot") version "3.2.0"
+    id("org.springframework.boot") version "3.2.1"
     id("io.spring.dependency-management") version "1.1.4"
 }
 
@@ -34,7 +34,7 @@ dependencies {
     implementation("com.zaxxer:HikariCP:5.1.0")
     compileOnly("org.projectlombok:lombok")
     runtimeOnly("com.h2database:h2:2.1.214")
-    runtimeOnly("io.netty:netty-resolver-dns-native-macos:4.1.101.Final")
+    runtimeOnly("io.netty:netty-resolver-dns-native-macos:4.1.104.Final")
     annotationProcessor("org.springframework.boot:spring-boot-configuration-processor")
     annotationProcessor("org.projectlombok:lombok")
     testCompileOnly("org.projectlombok:lombok")
